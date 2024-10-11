@@ -17,7 +17,7 @@
     <div class="flex w-full flex-col">
       <div class="divider">CRP-23</div>
     </div>
-    <div class="bg-base-100 rounded-md shadow-md mb-10 p-6 text-justify sm:p-2">
+    <div class="bg-base-100 rounded-md shadow-md mb-10 p-6 text-justify sm:p-2 textos">
       <div v-if="texto == 1">
         <h1 class="text-4xl text-center font-bold p-4"> Participe </h1>
         <p>Em agosto de 2025, profissionais de Psicologia de todo o Brasil escolher&atilde;o novas chapas de
@@ -124,7 +124,8 @@
           <br>3.
           Ap&oacute;s a realiza&ccedil;&atilde;o do evento, encaminhe as propostas conforme a
           sistematiza&ccedil;&atilde;o<br>presente neste formul&aacute;rio &gt; <a class="text-blue-500 underline"
-            href="https://forms.gle/wYKghkUTmV37FSHo6" target="_blank" rel="noopener">Clique Aqui</a></p>
+            href="https://forms.gle/wYKghkUTmV37FSHo6" target="_blank" rel="noopener">Clique Aqui</a>
+        </p>
       </div>
       <div v-if="texto == 4">
         <h1 class="text-4xl text-center font-bold p-4"> Pré Congressos </h1>
@@ -206,6 +207,15 @@ export default {
       texto: 1,
       email_contato: 'mailto:ouvidoria@crp23.org.br'
     }
-  }
+  },
+
+  watch: {
+    'texto'(val, oldval) {
+      if (val != oldval) {
+        let div = document.querySelector('.textos');
+        if (div) div.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  },
 }
 </script>
