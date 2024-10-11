@@ -167,14 +167,29 @@
       <div v-if="texto == 5">
         <h1 class="text-4xl text-center font-bold p-4"> Documentos </h1>
         <p>Fa&ccedil;a o download de documentos importantes para a realiza&ccedil;&atilde;o do 12o CNP e do5&deg;
-          COREPSI-TO:</p>
-        <p><a class="text-blue-500 underline"
-            href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4532/REGULAMENTOS%20COMORG.pdf" target="_blank"
-            rel="noopener">Regulamento Nacional do 12o CNP</a><br><a class="text-blue-500 underline"
-            href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4531/REGULAMENTOS%20COMORG.pdf" target="_blank"
-            rel="noopener">Regulamento do 5o Congresso Regional da Psicologia do Tocantins (5o COREPSI)</a><br><a
-            class="text-blue-500 underline" href="nsap" target="_blank" rel="noopener">Formul&aacute;rio para
-            informa&ccedil;&atilde;o de A&ccedil;&otilde;es Mobilizadoras &ndash; Eventos Livres</a></p>
+          COREPSI-TO:
+        </p>
+
+        <div class="mt-3 pl-6">
+          <ul class="space-y-3 list-disc">
+            <li>
+              <a class="text-blue-500 underline"
+                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4532/REGULAMENTOS%20COMORG.pdf"
+                target="_blank">Regulamento Nacional do 12o CNP</a>
+            </li>
+            <li>
+              <a class="text-blue-500 underline"
+                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4531/REGULAMENTOS%20COMORG.pdf"
+                target="_blank">Regulamento do 5o Congresso Regional da Psicologia do Tocantins (5o COREPSI)</a>
+            </li>
+            <li>
+              <a class="text-blue-500 underline" href="#" target="_blank">
+                Formulário para informação de Ações Mobilizadoras – Eventos Livres
+              </a>
+            </li>
+          </ul>
+        </div>
+
       </div>
       <div v-if="texto == 6">
         <h1 class="text-4xl text-center font-bold p-4"> Comorg </h1>
