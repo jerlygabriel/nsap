@@ -155,7 +155,7 @@
 
         <ul class="p-4">
           <li>
-            <strong>Encontro 1 </strong>- 29 de novembro de 2024 &agrave;s 09h - modalidade on-line;
+            <strong>Encontro 1 </strong>- 29 de novembro de 2024 &agrave;s 09h - presencial;
           </li>
           <li>
             <strong>Encontro 2</strong> - 06 de dezembro de 2024 &agrave;s 09h - modalidade on-line;
