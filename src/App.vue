@@ -1,6 +1,6 @@
 <template>
   <div class="mt-4 sm:mt-10 sm:mx-0 lg:mx-44">
-    <img src="../public/IMG-20241001-WA0003.jpg" class="h-full sm:w-full sm:h-[360px] mx-auto rounded-md" />
+    <img src="../public/IMG-20241001-WA0003.jpg" class="h-full sm:w-full mx-auto rounded-md" />
     <div class="flex justify-center">
       <ul
         class="menu menu-vertical lg:menu-horizontal bg-base-200 rounded-box shadow-md mt-5 w-full sm:w-fit  space-y-1 sm:space-y-0">
@@ -17,7 +17,7 @@
     <div class="flex w-full flex-col">
       <div class="divider">CRP-23</div>
     </div>
-    <div class="bg-base-100 rounded-md shadow-md mb-10 p-6 text-justify sm:p-2 textos">
+    <div class="bg-base-100 rounded-md shadow-md mb-10 p-6 text-justify sm:p-2 textos text-black">
       <div v-if="texto == 1">
         <h1 class="text-4xl text-center font-bold p-4"> Participe </h1>
         <p>Em agosto de 2025, profissionais de Psicologia de todo o Brasil escolher&atilde;o novas chapas de
@@ -175,18 +175,28 @@
             <li>
               <a class="text-blue-500 underline"
                 href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4532/REGULAMENTOS%20COMORG.pdf"
-                target="_blank">Regulamento Nacional do 12o CNP</a>
+                target="_blank">Regulamento Nacional do 12º CNP</a>
             </li>
             <li>
               <a class="text-blue-500 underline"
                 href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4531/REGULAMENTOS%20COMORG.pdf"
-                target="_blank">Regulamento do 5o Congresso Regional da Psicologia do Tocantins (5o COREPSI)</a>
+                target="_blank">Regulamento do 5º Congresso Regional da Psicologia do Tocantins (5º COREPSI)</a>
             </li>
             <li>
+              <a class="text-blue-500 underline"
+                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4834/Publicacao.pdf"
+                target="_blank">DOU - Diário Oficial da União | EDITAL DE CONVOCAÇÃO</a>
+            </li>
+            <li>
+              <a class="text-blue-500 underline"
+                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4835/Publicacao.pdf"
+                target="_blank">DOE - Diário Oficial do Estado | EDITAL DE CONVOCAÇÃO</a>
+            </li>
+            <!-- <li>
               <a class="text-blue-500 underline" href="#" target="_blank">
                 Formulário para informação de Ações Mobilizadoras – Eventos Livres
               </a>
-            </li>
+            </li> -->
           </ul>
         </div>
 
