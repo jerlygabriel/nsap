@@ -25,7 +25,7 @@
           processo eleitoral, os Conselhos de cada Estado promovem um processo dial&oacute;gico e
           democr&aacute;tico,&nbsp;<strong>do qual voc&ecirc; pode fazer parte</strong>, para definir as diretrizes que
           orientar&atilde;o os tr&ecirc;s anos das gest&otilde;es.&nbsp;</p>
-        <p>O&nbsp;<strong>5&ordm; COREPSI-PR ocorrer&aacute; em</strong><strong>&nbsp;21, 22 e 23 de mar&ccedil;o de
+        <p>O&nbsp;<strong>5&ordm; COREPSI-TO ocorrer&aacute; em</strong><strong>&nbsp;21, 22 e 23 de mar&ccedil;o de
             2025</strong>&nbsp; com o tema &ldquo;Psicologia e Democracia: A Pluriversalidade do nosso fazer&rdquo; e
           seus objetivos s&atilde;o:</p>
         <ul class="p-4 list-disc">
@@ -109,7 +109,8 @@
           ela: psic&oacute;loga,&nbsp;com cadastro ativo, regular, adimplente, com inscri&ccedil;&atilde;o principal no
           Estado do Tocantins, que&nbsp;ser&aacute; designada para responder &agrave;s demandas, conforme
           organiza&ccedil;&atilde;o/orienta&ccedil;&atilde;o da COMORG-&nbsp;TO, regional e comunicado por meio do
-          formul&aacute;rio dispon&iacute;vel no hotsite <a href="https://www.crp23.org.br" class="text-blue-500 underline" target="_blank">www.crp23.org.br</a>;</p>
+          formul&aacute;rio dispon&iacute;vel no hotsite <a href="https://www.crp23.org.br"
+            class="text-blue-500 underline" target="_blank">www.crp23.org.br</a>;</p>
         <p>b) Os Eventos livres, dever&atilde;o ser realizados entre o per&iacute;odo de: 01 de setembro de 2024 a
           30&nbsp;de novembro de 2024;<br>c) Todas as propostas ser&atilde;o encaminhadas &agrave; COMORG-TO, que
           poder&aacute; sugerir jun&ccedil;&atilde;o,&nbsp;divis&atilde;o e adequa&ccedil;&atilde;o de propostas que
@@ -129,16 +130,26 @@
       </div>
       <div v-if="texto == 4">
         <h1 class="text-4xl text-center font-bold p-4"> Pré Congressos </h1>
-        <p>No Tocantins, a agenda dos chamados Pr&eacute;-COREPSIs contar&aacute; com eventos virtuais de 01
-          de&nbsp;outubro de 2024 a 02 de fevereiro de 2025. Toda pessoa Psic&oacute;loga com registro ativo
-          pode<br>participar de um Pr&eacute;-COREPSI, inst&acirc;ncia na qual se debateram quest&otilde;es relativas
-          &agrave; Psicologia&nbsp;como ci&ecirc;ncia e profiss&atilde;o, e em que ocorreram as candidaturas para ser
-          pessoa delegada no&nbsp;12º COREPSI.<br>Tamb&eacute;m podem participar estudantes de Psicologia, pessoas
-          convidadas e pessoas&nbsp;observadoras. O direito a voz foi garantido a todas as pessoas, e o direito a voto
-          &eacute; restrito a&nbsp;profissionais de Psicologia.<br>Nesta fase ocorrer&aacute;, concomitantemente, a
-          elei&ccedil;&atilde;o de delega&ccedil;&atilde;o que participar&aacute; do 5º&nbsp;COREPSI e
-          delibera&ccedil;&otilde;es sobre outras proposi&ccedil;&otilde;es de &acirc;mbito regional, a serem
-          encaminhadas&nbsp;para o 5º COREPSI.</p>
+
+        <div>
+          No Tocantins, a agenda dos chamados Pr&eacute;-COREPSIs contar&aacute; com eventos virtuais de 01 de outubro
+          de 2024 a 02 de fevereiro de 2025. Toda pessoa psic&oacute;loga com registro ativo pode participar de um
+          Pr&eacute;-COREPSI, inst&acirc;ncia na qual se debater&atilde;o quest&otilde;es relativas &agrave; Psicologia
+          como ci&ecirc;ncia e profiss&atilde;o, e em que ocorrer&atilde;o as candidaturas para ser pessoa delegada no
+          5&ordm; COREPSI.</div>
+        <div>
+          &nbsp;</div>
+        <div>
+          Tamb&eacute;m podem participar estudantes de Psicologia, pessoas convidadas e pessoas observadoras. O direito
+          &agrave; voz foi garantido a todas as pessoas, e o direito a voto &eacute; restrito a profissionais de
+          Psicologia.</div>
+        <div>
+          &nbsp;</div>
+        <div>
+          Nesta fase, ocorrer&aacute;, concomitantemente, a elei&ccedil;&atilde;o de delegados que participar&atilde;o
+          do 5&ordm; COREPSI e delibera&ccedil;&otilde;es sobre outras proposi&ccedil;&otilde;es de &acirc;mbito
+          regional, a serem encaminhadas para o 5&ordm; COREPSI.</div>
+
         <br>
         <p>&nbsp;&nbsp; Confira a agenda preliminar dos eventos: </p>
 
@@ -184,13 +195,19 @@
             </li>
             <li>
               <a class="text-blue-500 underline"
-                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4834/Publicacao.pdf"
-                target="_blank">DOU - Diário Oficial da União | EDITAL DE CONVOCAÇÃO</a>
+                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4834/Publicacao.pdf" target="_blank">DOU -
+                Diário Oficial da União | EDITAL DE CONVOCAÇÃO</a>
             </li>
             <li>
               <a class="text-blue-500 underline"
-                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4835/Publicacao.pdf"
-                target="_blank">DOE - Diário Oficial do Estado | EDITAL DE CONVOCAÇÃO</a>
+                href="https://api.crp23.org.br/arquivo/crp23.org.br/docs/4835/Publicacao.pdf" target="_blank">DOE -
+                Diário Oficial do Estado | EDITAL DE CONVOCAÇÃO</a>
+            </li>
+            <li>
+              <a class="text-blue-500 underline"
+                href="https://folhacapital.com.br/publicidade-legal/edital-de-convocacao-6/" target="_blank">DOE -
+                Folha Capital | Edital de Convocação da Assembleia Geral Extraordinária da Tesouraria do CRP 23
+               </a>
             </li>
             <!-- <li>
               <a class="text-blue-500 underline" href="#" target="_blank">
