@@ -109,13 +109,13 @@
           ela: psic&oacute;loga,&nbsp;com cadastro ativo, regular, adimplente, com inscri&ccedil;&atilde;o principal no
           Estado do Tocantins, que&nbsp;ser&aacute; designada para responder &agrave;s demandas, conforme
           organiza&ccedil;&atilde;o/orienta&ccedil;&atilde;o da COMORG-&nbsp;TO, regional e comunicado por meio do
-          formul&aacute;rio dispon&iacute;vel no hotsite www.crp23.org.br;</p>
-        <p>b) Os Eventos livres, dever&atilde;o ser realizados entre o per&iacute;odo de: 01o de setembro de 2024 a
+          formul&aacute;rio dispon&iacute;vel no hotsite <a href="https://www.crp23.org.br" class="text-blue-500 underline" target="_blank">www.crp23.org.br</a>;</p>
+        <p>b) Os Eventos livres, dever&atilde;o ser realizados entre o per&iacute;odo de: 01 de setembro de 2024 a
           30&nbsp;de novembro de 2024;<br>c) Todas as propostas ser&atilde;o encaminhadas &agrave; COMORG-TO, que
           poder&aacute; sugerir jun&ccedil;&atilde;o,&nbsp;divis&atilde;o e adequa&ccedil;&atilde;o de propostas que
-          n&atilde;o possam ser exequ&iacute;veis em a&ccedil;&otilde;es, atividades ou&nbsp;projetos pelo 5o
+          n&atilde;o possam ser exequ&iacute;veis em a&ccedil;&otilde;es, atividades ou&nbsp;projetos pelo 5º
           Plen&aacute;rio do CRP 23, preservando a vers&atilde;o anterior de todas as propostas,&nbsp;para registro
-          hist&oacute;rico e garantia efetiva de democracia.Como realizar um evento livre:<br>1. Fa&ccedil;a o download
+          hist&oacute;rico e garantia efetiva de democracia. Como realizar um evento livre:<br>1. Fa&ccedil;a o download
           e preencha o formul&aacute;rio &gt; <a class="text-blue-500 underline"
             href="https://forms.gle/wYKghkUTmV37FSHo6" target="_blank" rel="noopener">Clique Aqui</a><br>2. Assine o
           documento e envie para o e-mail &gt; <a class="text-blue-500 underline" :href="email_contato" target="_blank"
@@ -136,9 +136,9 @@
           pessoa delegada no&nbsp;12º COREPSI.<br>Tamb&eacute;m podem participar estudantes de Psicologia, pessoas
           convidadas e pessoas&nbsp;observadoras. O direito a voz foi garantido a todas as pessoas, e o direito a voto
           &eacute; restrito a&nbsp;profissionais de Psicologia.<br>Nesta fase ocorrer&aacute;, concomitantemente, a
-          elei&ccedil;&atilde;o de delega&ccedil;&atilde;o que participar&aacute; do 5o&nbsp;COREPSI e
+          elei&ccedil;&atilde;o de delega&ccedil;&atilde;o que participar&aacute; do 5º&nbsp;COREPSI e
           delibera&ccedil;&otilde;es sobre outras proposi&ccedil;&otilde;es de &acirc;mbito regional, a serem
-          encaminhadas&nbsp;para o 5o COREPSI.</p>
+          encaminhadas&nbsp;para o 5º COREPSI.</p>
         <br>
         <p>&nbsp;&nbsp; Confira a agenda preliminar dos eventos: </p>
 
@@ -166,7 +166,7 @@
       </div>
       <div v-if="texto == 5">
         <h1 class="text-4xl text-center font-bold p-4"> Documentos </h1>
-        <p>Fa&ccedil;a o download de documentos importantes para a realiza&ccedil;&atilde;o do 12º CNP e do5&deg;
+        <p>Fa&ccedil;a o download de documentos importantes para a realiza&ccedil;&atilde;o do 12º CNP e do 5&deg;
           COREPSI-TO:
         </p>
 
@@ -203,7 +203,7 @@
       </div>
       <div v-if="texto == 6">
         <h1 class="text-4xl text-center font-bold p-4"> Comorg </h1>
-        <p>Conhe&ccedil;a a Comiss&atilde;o Organizadora Regional do 5o COREPSI-TO.</p>
+        <p>Conhe&ccedil;a a Comiss&atilde;o Organizadora Regional do 5º COREPSI-TO.</p>
         <p>Karla Milhomem Cardoso (Conselheira titular)</p>
         <p>Douglas Hermann de Sousa (Conselheira titular)</p>
         <p>Ocinarya Saraiva Lima (Psic&oacute;loga convidada)</p>
