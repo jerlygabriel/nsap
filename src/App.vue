@@ -55,13 +55,13 @@
           s&atilde;o&nbsp;sistematizadas e levadas a discuss&atilde;o pelas pessoas delegadas no 5&ordm; Congresso
           Regional da Psicologia do Tocantins (5&deg; COREPSI);<br>As propostas votadas em todas as etapas ser&atilde;o
           levadas para o 12&ordm; Congresso Nacional da&nbsp;Psicologia (12&ordm; CNP). &Eacute; tamb&eacute;m durante a
-          5&ordm; COREPSI que ser&atilde;o escolhidas as pessoas&nbsp;delegadas para representar o Tocantins no 12o CNP.
+          5&ordm; COREPSI que ser&atilde;o escolhidas as pessoas&nbsp;delegadas para representar o Tocantins no 12º CNP.
         </p>
         <p><br><strong><span style="font-size: 23px;">12&ordm; Congresso Nacional da Psicologia (CNP)</span></strong>
         </p>
         <p><br>O processo de forma&ccedil;&atilde;o das diretrizes que orientam as gest&otilde;es regionais e federal
           no&nbsp;pr&oacute;ximo tri&ecirc;nio &eacute; finalizado no 12&ordm; Congresso Nacional da Psicologia (CNP),
-          que ser&aacute;&nbsp;realizado entre os dias ----------------- 2025. Neste momento, as
+          que ser&aacute;&nbsp;realizado entre os dias 03 a 06 de julho de 2025. Neste momento, as
           delega&ccedil;&otilde;es regionais votam as&nbsp;propostas e, uma vez aprovadas, elas formam o Caderno de
           Delibera&ccedil;&otilde;es, que fica dispon&iacute;vel&nbsp;para conhecimento da categoria.<br>As
           discuss&otilde;es e propostas, desde esta etapa, devem ser alinhadas ao tema do 12&ordm; Congresso Nacional da
@@ -133,7 +133,7 @@
           de&nbsp;outubro de 2024 a 02 de fevereiro de 2025. Toda pessoa Psic&oacute;loga com registro ativo
           pode<br>participar de um Pr&eacute;-COREPSI, inst&acirc;ncia na qual se debateram quest&otilde;es relativas
           &agrave; Psicologia&nbsp;como ci&ecirc;ncia e profiss&atilde;o, e em que ocorreram as candidaturas para ser
-          pessoa delegada no&nbsp;12o COREPSI.<br>Tamb&eacute;m podem participar estudantes de Psicologia, pessoas
+          pessoa delegada no&nbsp;12º COREPSI.<br>Tamb&eacute;m podem participar estudantes de Psicologia, pessoas
           convidadas e pessoas&nbsp;observadoras. O direito a voz foi garantido a todas as pessoas, e o direito a voto
           &eacute; restrito a&nbsp;profissionais de Psicologia.<br>Nesta fase ocorrer&aacute;, concomitantemente, a
           elei&ccedil;&atilde;o de delega&ccedil;&atilde;o que participar&aacute; do 5o&nbsp;COREPSI e
@@ -166,7 +166,7 @@
       </div>
       <div v-if="texto == 5">
         <h1 class="text-4xl text-center font-bold p-4"> Documentos </h1>
-        <p>Fa&ccedil;a o download de documentos importantes para a realiza&ccedil;&atilde;o do 12o CNP e do5&deg;
+        <p>Fa&ccedil;a o download de documentos importantes para a realiza&ccedil;&atilde;o do 12º CNP e do5&deg;
           COREPSI-TO:
         </p>
 
