@@ -207,7 +207,7 @@
               <a class="text-blue-500 underline"
                 href="https://folhacapital.com.br/publicidade-legal/edital-de-convocacao-6/" target="_blank">DOE -
                 Folha Capital | Edital de Convocação da Assembleia Geral Extraordinária da Tesouraria do CRP 23
-               </a>
+              </a>
             </li>
             <!-- <li>
               <a class="text-blue-500 underline" href="#" target="_blank">
@@ -220,23 +220,26 @@
       </div>
       <div v-if="texto == 6">
         <h1 class="text-4xl text-center font-bold p-4"> Comorg </h1>
-        <p>Conhe&ccedil;a a Comiss&atilde;o Organizadora Regional do 5º COREPSI-TO.</p>
-        <p>Karla Milhomem Cardoso (Conselheira titular)</p>
-        <p>Douglas Hermann de Sousa (Conselheira titular)</p>
-        <p>Ocinarya Saraiva Lima (Psic&oacute;loga convidada)</p>
-        <p>M&aacute;rcia Helena Padilha (Psic&oacute;loga fiscal)</p>
-        <p>Ayala Griss Batista Cavalcante (Funcion&aacute;ria)</p>
-        <p>Breno Vasco Pereira Lima (Funcion&aacute;ria)</p>
-        <p>H&eacute;rika Santos Rosa (Funcion&aacute;ria)</p>
-        <p>Joelene Oliveira Costa (Funcion&aacute;ria)</p>
+        <p class="my-2 font-semibold">Conhe&ccedil;a a Comiss&atilde;o Organizadora Regional do 5º COREPSI-TO.</p>
+        <div class="p-3 space-y-1">
+          <p>Karla Milhomem Cardoso (Conselheira titular)</p>
+          <p>Douglas Hermann de Sousa (Conselheira titular)</p>
+          <p>Ocinarya Saraiva Lima (Psic&oacute;loga convidada)</p>
+          <p>M&aacute;rcia Helena Padilha (Psic&oacute;loga fiscal)</p>
+          <p>Ayala Griss Batista Cavalcante (Funcion&aacute;ria)</p>
+          <p>Breno Vasco Pereira Lima (Funcion&aacute;ria)</p>
+          <p>H&eacute;rika Santos Rosa (Funcion&aacute;ria)</p>
+          <p>Joelene Oliveira Costa (Funcion&aacute;ria)</p>
+        </div>
       </div>
       <div v-if="texto == 7">
         <h1 class="text-4xl text-center font-bold p-4"> Contato </h1>
-        <p>Se voc&ecirc; tem alguma d&uacute;vida, n&atilde;o hesite em entrar em contato conosco!<br></p>
-        <p>Mande um e-mail para a respons&aacute;vel pela Comiss&atilde;o Organizadora&nbsp;Regional &gt; <a
+        <p class="my-2">Se voc&ecirc; tem alguma d&uacute;vida, n&atilde;o hesite em entrar em contato conosco!<br></p>
+        <p class="mb-1">Mande um e-mail para a respons&aacute;vel pela Comiss&atilde;o Organizadora&nbsp;Regional &gt; <a
             class="text-blue-500 underline" :href="email_contato" target="_blank" rel="noopener">
             ouvidoria@crp23.org.br
-          </a></p>
+          </a>
+          </p>
       </div>
     </div>
   </div>
